@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33590'
     url: http://www.gutenberg.org/2009/agents/33590
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28926#Diary-from-March-4-1861-to-November-12-1862
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2009-05-22'
 gutenberg_type: Text
